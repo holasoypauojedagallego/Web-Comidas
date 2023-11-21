@@ -1,0 +1,48 @@
+
+html{
+    font-family: 'Courier New', Courier, monospace;
+    width:  100em;
+    margin: 0 auto;
+} 
+
+h1 {
+    color: rgb(125, 200, 15);
+    display: flex;
+    justify-content: center;
+    font-size: 42px;
+}
+a {
+    color: rgb(33, 58, 170);
+}
+
+.index{
+    background-image: url(/fnaf.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.fotocroquetas{
+    position: absolute;
+    top: 12%;
+    left: 6%;
+}
+
+.fotopastel{
+    position: absolute;
+    top: 12%;
+    left: 81%;
+}
+
+.fotojose{
+    position: absolute;
+    top: 33%;
+    left: 41%;
+}
+.croquetas{
+    background-color: rgb(255, 210, 135);
+}
+
+.pastel{
+    background-color: rgb(200, 140, 110);
+}
