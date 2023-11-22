@@ -55,3 +55,12 @@ li{
 .pastel{
     background-color: rgb(200, 140, 110);
 }
+
+header{
+    padding: 1%;
+    margin: auto;
+    border: 1mm;
+    border-radius: 1cm;
+    border-style: solid;
+    border-color: black;
+}
